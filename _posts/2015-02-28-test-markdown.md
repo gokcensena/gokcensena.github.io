@@ -8,7 +8,7 @@ tags: [test]
 comments: true
 ---
 
-Here you can learn more about the conference I attended as a conference interpreter.
+Here you can learn more about the events I attended as a conference interpreter.
 
 **Here is some bold text**
 
