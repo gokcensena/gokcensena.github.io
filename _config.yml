@@ -56,7 +56,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Gökçen Sena Duman
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -67,7 +67,7 @@ social-network-links:
   email: "gokcensenaa@gmail.com"
   twitter: gokcensduman
   spotify: Gökçen Sena Duman
-  youtube: user/gokcensenaa
+  youtube: user/gokcensena
   linkedin: gokcensena
 #  reddit: yourname
 #  xing: yourname
