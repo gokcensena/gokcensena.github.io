@@ -4,7 +4,7 @@ title: Interpreting experience
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [experience]
 comments: true
 ---
 
