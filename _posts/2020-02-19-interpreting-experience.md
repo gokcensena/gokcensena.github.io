@@ -3,7 +3,7 @@ layout: post
 title: Interpreting experience
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
+gh-badge: []
 tags: [experience]
 comments: true
 ---
