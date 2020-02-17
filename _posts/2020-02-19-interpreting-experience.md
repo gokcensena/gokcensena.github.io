@@ -8,9 +8,9 @@ tags: [experience]
 comments: true
 ---
 
-Here you can learn more about the events I attended as a conference interpreter.
+Here you can view the events I attended as a conference interpreter.
 
-**Conferences**
+**Events**
 
 1.	11th Turkish – German Gynecology Congress (11-15 May, 2016 - Antalya)
 2.	TAIEX Workshop on Analysing the Price Monitoring System of the Food and Agricultural Products & Markets (11-13 October, 2016- Ankara)
