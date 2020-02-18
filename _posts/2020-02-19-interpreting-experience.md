@@ -43,7 +43,7 @@ Here you can view the events I attended as a conference interpreter.
 29.	KLİVET 2019 International VII. Spring Symposium – Pediatrics in Cats and Dogs (11-14 April, 2019 – Antalya)
 30.	11th International Congress on Psychopharmacology (18-21 April, 2019 – Antalya)
 31.	55th National Diabetes, Metabolism and Nutritional Diseases Congress (24-27 April, 2019 – KKTC)
-32.	21. National Child Neurology Congress with International Participation (1-2 May, 2019 - Muğla)
+32.	21st National Child Neurology Congress with International Participation (1-2 May, 2019 - Muğla)
 33.	Rhinoplasty School (3-5 May, 2019 – İstanbul)
 34.	Rhinoplasty Istanbul Workshop (14-16 June, 2019 - İstanbul)
 35.	 VI. DOD Update on Dermatology (5-8 September, 2019 - Sapanca)
