@@ -62,4 +62,7 @@ Here you can view the events I attended as a conference interpreter.
 48.	 GA2LEN UCARE Urticaria Conference (6-7 November, 2019 – İstanbul
 49.	 TUVECCA Symposium of Emergency and Intensive Care Courses (9-12 January, 2020 – İstanbul)
 50.	Clinical Lipidology Course (7 February, 2020 – İstanbul)
+51. 1st International Veterinary Practice Management and Business Administration Congress (27-28 February, 2020 - Istanbul)
+52. TSC Clinical Studies Application and Education Project Group Meeting (29 February, 2020 - Istanbul)
+53. 23rd Rhinoplasty Course (6-8 March, 2020 - Istanbul)
 
