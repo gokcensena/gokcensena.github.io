@@ -1,65 +1,42 @@
-<!-- Container for the image gallery -->
-<div class="container">
-
-  <!-- Full-width images with number text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
-      <img src="img_woods_wide.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
-      <img src="img_5terre_wide.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
-      <img src="img_mountains_wide.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
-      <img src="img_lights_wide.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
-      <img src="img_nature_wide.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
-      <img src="img_snow_wide.jpg" style="width:100%">
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-
-  <!-- Image text -->
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
-
-  <!-- Thumbnail images -->
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="img_woods.jpg" style="width:100%" onclick="currentSlide(1)" alt="The Woods">
+<div id="gallery">
+      <ul id="navigation">
+        <li>
+          <a href="#picture1">
+          <img alt="small house 1" src="/uploads/media/default/0001/03/22586f08ef509e3fd151d7a923f7f2c5997f0b07.jpeg" />
+          </a>
+        </li>
+        <li>
+          <a href="#picture2">
+          <img alt="small house 2" src="/uploads/media/default/0001/03/103116629234462f05410cb6d43ed08065e3d4de.jpeg" />
+          </a>
+        </li>
+        <li>
+          <a href="#picture3">
+          <img alt="small house 3" src="/uploads/media/default/0001/03/3d9718da65fc51d97aac4c6d762af5439cf91502.jpeg" />
+          </a>
+        </li>
+        <li>
+          <a href="#picture4">
+          <img alt="small house 4" src="/uploads/media/default/0001/03/3eb4eb89e69c353ce1305a2c545aa1d08f811952.jpeg" />
+          </a>
+        </li>
+      </ul>
+      <div id="full-picture">
+        <div>
+          <a name="picture1"></a>
+          <img alt="Large house 1" src="/uploads/media/default/0001/03/0fa4b71d43929b2df12e076e56c1977be75dfbb8.jpeg" />
+        </div>
+        <div>
+          <a name="picture2"></a>
+          <img alt="Large house 2" src="/uploads/media/default/0001/03/825a2070e85851f240a3e3159ce14a209ec09ef4.jpeg" />
+        </div>
+        <div>
+          <a name="picture3"></a>
+          <img alt="Large house 3" src="/uploads/media/default/0001/03/50e11aad0765f04983e42cb992fbda3ba39322f5.jpeg" />
+        </div>
+        <div>
+          <a name="picture4"></a>
+          <img alt="Large house 4" src="/uploads/media/default/0001/03/efcd4eae59c19e488249be1872a3aca00d81d545.jpeg" />
+        </div>
+      </div>
     </div>
-    <div class="column"> 
-      <img class="demo cursor" src="img_5terre.jpg" style="width:100%" onclick="currentSlide(2)" alt="Cinque Terre">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_mountains.jpg" style="width:100%" onclick="currentSlide(3)" alt="Mountains and fjords">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_lights.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="img_nature.jpg" style="width:100%" onclick="currentSlide(5)" alt="Nature and sunrise">
-    </div> 
-    <div class="column">
-      <img class="demo cursor" src="img_snow.jpg" style="width:100%" onclick="currentSlide(6)" alt="Snowy Mountains">
-    </div>
-  </div>
-</div>
