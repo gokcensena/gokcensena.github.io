@@ -54,7 +54,7 @@ Here you can view the events I attended as a conference interpreter.
 40.	 29th National Pathology Congress (23-26 October, 2019 – Trabzon)
 41.	 19th National Vascular and Endovascular Surgery Congress / 10th National Phlebology Congress (26-29 October, 2019 – TRNC)
 42.	Early Childhood and Primary Years Conference (2-3 November, 2019 – İzmir)
-43.	 8th Turkish Wind Energy Congress (5-6 November, 2019 – Ankara)
+43.	8th Turkish Wind Energy Congress (5-6 November, 2019 – Ankara)
 44.	International Automative Engineering Conference (7 November, 2019 – İstanbul)
 45.	 MSD Animal Health Meeting (8 November, 2019 – TRNC)
 46.	XXVI. National Allergy and Clinical Immunology Congress (9-13 November, 2019 – Antalya)
