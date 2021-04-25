@@ -9,8 +9,8 @@ title: CV
 # Experience
 * Intellectual Property Consultant & Translator & Interpreter • ProIP Patent (November 2020 - *present*)
 * Conference Interpreter - EDF Conference Interpreting (September 2016 - November 2020)
-* <a href= "https://www.backtothesound.com/author/senaduman/"> Music Writer - BacktotheSound</a> (2016 - *present*)
-* 
+* <a href= "https://www.backtothesound.com/author/senaduman/" target="_blank"> Music Writer - BacktotheSound</a> (2016 - *present*)
+
 
 # Certificates
 * Certificate of Elocution - Başkent İletişim Bilimleri Akademisi
